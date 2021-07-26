@@ -23,6 +23,10 @@ li:hover {
     transition-duration: .3s;
 }
 
+.font {
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+
 .carv-font,
 h2 {
     font-family: 'Cedarville Cursive', cursive !important;
@@ -43,6 +47,7 @@ h1 {
     height: 54px;
     border-radius: 7px;
     border: 0px;
+    font-family: 'Josefin Sans', sans-serif !important;
 }
 
 .fas {
@@ -88,6 +93,44 @@ h1 {
 
 .fab {
     color: rgb(158, 158, 158);
+}
+
+.image-3 {
+    width: 380px;
+    height: 287px;
+}
+
+.image-4 {
+    width: 364.59px;
+    height: 262.96px;
+    margin-top: -208px;
+    margin-left: 50px;
+}
+
+.margin-1 {
+    margin-top: 100px;
+}
+
+.shop-name {
+    font-size: 38px !important;
+    font-weight: 500;
+}
+
+.pera {
+    line-height: 200%;
+}
+
+.image-5 {
+    width: 410px;
+    height: 276px;
+
+}
+
+.image-6 {
+    width: 250px;
+    height: 326px;
+    margin-top: -308px;
+    margin-left: 79px;
 }
 
 
